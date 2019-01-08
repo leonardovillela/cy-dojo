@@ -10,4 +10,4 @@ Scenario: Opening concrete page
 Scenario: Search in concrete page
     Given I open page
     When I search for "Lucas Fraga"
-    Then I see the survey completed "Como anexar ao report o screenshot com o Protractor"
+    Then I see the survey completed "Xablau"
